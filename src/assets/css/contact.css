@@ -72,7 +72,6 @@
     box-sizing: border-box;
     padding-left: 1.25rem;
     border: 1px solid #b4b2c7;
-    border-radius: 0.5rem;
     transition: border 0.3s;
   }
   #cs-contact #cs-form input:hover,
@@ -85,7 +84,6 @@
     padding-top: 1.25rem;
   }
   #cs-contact #cs-form .cs-button-solid {
-    width: 100%;
     border: none;
   }
   #cs-contact .cs-right-section {
@@ -93,7 +91,6 @@
     /* 24px - 40px top & bottom */
     /* 20px - 40px left & right */
     padding: clamp(1.5rem, 3vw, 2.5rem) clamp(1.25rem, 3vw, 2.5rem);
-    border-radius: 0.5rem;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
